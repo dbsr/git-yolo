@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo 'installing...'
+git config --global alias.yolo 'push --force'
+echo 'done'
